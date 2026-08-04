@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irshad Ahamad</h1>
-<h3 align="center">Software Tools & Platform Engineer @SmartFRS PVT LTD | Transforming Ideas into Scalable Solutions</h3>
+<h3 align="center">Software Engineer Trainee @OmniXM | Transforming Ideas into Scalable Solutions</h3>
 <h4 align="center">
   Turning Ideas into Code • Code into Products • Products into Impact
 </h4>
